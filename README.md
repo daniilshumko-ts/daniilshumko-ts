@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Please visit my personal github profile [daniil-shumko](https://github.com/daniil-shumko)
 <!--
 **daniilshumko-ts/daniilshumko-ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
